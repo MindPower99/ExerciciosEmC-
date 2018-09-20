@@ -1,0 +1,7 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\bin\Debug\eae.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\bin\Debug\eae.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\obj\x86\Debug\eae.Form1.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\obj\x86\Debug\eae.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\obj\x86\Debug\eae.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\obj\x86\Debug\eae.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\eae\obj\x86\Debug\eae.pdb
